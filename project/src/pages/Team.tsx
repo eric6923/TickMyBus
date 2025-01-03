@@ -1,4 +1,3 @@
-import React from 'react';
 import { Linkedin, Mail } from 'lucide-react';
 import Img1 from './naruto.webp';
 import Img2 from './hinata.webp'
